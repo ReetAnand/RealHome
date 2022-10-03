@@ -151,7 +151,7 @@
                 </p>
                 <p class="color-text-a">
                   Buying a home is the biggest investment most people will ever make, but not all real estate agents are equal. 
-                  Find out how the experience and training of a REALHOME® can help you get into your dream home.
+                  Find out how the experience and training of a REALHOMEÂ® can help you get into your dream home.
                 </p>
           </div>
         </div>
