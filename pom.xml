@@ -38,7 +38,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/ma
                                              <configuration>
                                              <artifactItems>
                                                       <artifactItem>
-                                                               <groupId>com.github.ReetAnand</groupId>
+                                                               <groupId>com.github.jsimone</groupId>
                                                                <artifactId>webapp-runner</artifactId>
                                                                <version>8.0.30.2</version>
                                                                <destFileName>webapp-runner.jar</destFileName>
